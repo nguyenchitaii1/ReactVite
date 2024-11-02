@@ -1,0 +1,53 @@
+.brand-container {
+    background-color: black;
+    padding: 20px 0;
+    text-align: center;
+    height: 122px;
+    
+}
+
+.brand1{
+    color: white;
+    font-family: 'Times New Roman', serif;
+    font-size: 50px;
+    padding-top: 15px;
+    margin: 0 20px;
+    display: inline-block;
+    margin-right: 170px;
+}
+.brand2{
+    color: white;
+    font-size: 50px;
+    padding-top: 15px;
+    margin: 0 20px;
+    margin-right: 170px;
+    display: inline-block;
+    font-family: 'Didot', serif;
+}
+.brand3{
+    color: white;
+    font-family: 'Garamond', serif;
+    font-size: 50px;
+    padding-top: 15px;
+    margin: 0 20px;
+    display: inline-block;
+    margin-right: 170px;
+}
+.brand4{
+    color: white;
+    font-family: 'Bodoni', serif;
+    font-size: 50px;
+    padding-top: 15px;
+    margin: 0 20px;
+    margin-right: 170px;
+    display: inline-block;
+}
+.brand5{
+    color: white;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 50px;
+    padding-top: 15px;
+    margin-right: 170px;
+    margin: 0 20px;
+    display: inline-block;
+}
